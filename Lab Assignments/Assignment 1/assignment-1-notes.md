@@ -22,3 +22,5 @@ scipy.optimize (curve fit)<br>
 fftpack<br>
 odeint<br>
 seaborn<br>
+
+https://machinelearningmastery.com/curve-fitting-with-python/
