@@ -14,11 +14,11 @@
 6 References
 
 ## Useful libraries
-numpy
-pandas
-scipy
-scipy.integrate
-scipy.optimize (curve fit)
-fftpack
-odeint
-seaborn
+numpy<br>
+pandas<br>
+scipy<br>
+scipy.integrate<br>
+scipy.optimize (curve fit)<br>
+fftpack<br>
+odeint<br>
+seaborn<br>
